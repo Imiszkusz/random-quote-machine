@@ -1,0 +1,58 @@
+#leftDiv {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+  height: 100%;
+  background-color: #F3C969;
+  border-right: 10px dotted #975F11
+}
+
+#rightDiv {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  right: 0;
+  width: 40%;
+  height: 100%;
+  background-color: #FCEBC2;
+  border-left: 7px solid #975F11
+}
+
+#quoteContain {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  
+}
+
+p {
+  font-family: Palatino-linotype;
+  font-size: 24px;
+}
+
+
+#authorP {
+  font-weight: bold;
+}
+
+button {
+  margin-right: 10px;
+  font-family: Palatino-linotype;
+  font-size: 16px;
+}
+
+.twitterSh {
+  margin-top: 15px;
+  border-radius: 20px;
+  border: 1px solid orange;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: none;
+}
