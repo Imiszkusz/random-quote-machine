@@ -12,4 +12,4 @@ HTML/CSS/Pure JS
 
 ## Live View
 
-http://codepen.io/Imiszkusz/pen/akAZQp
+http://jimremat.net16.net/index.html
